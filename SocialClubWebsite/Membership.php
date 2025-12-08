@@ -1,0 +1,35 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Kings Norton Ex Servicemans Club</title>
+</head>
+
+<body>
+  <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="topnav" id="myTopnav">
+  <a href="Homepage.php" class="active">Home</a>
+  <a href="Sports.php">Sports</a>
+  <a href="Socials.php">Socials</a>
+  <a href="Events.php">Events</a>
+  <a href="Membership.php">Membership</a>
+  <a href="Bookings.php">Bookings</a>
+  <a href="Login.php">Membership login</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+
+<body style="background-color:#161515;">    
+    <div class="text">
+        <div class="text_center">
+            <p>While we accept all people to come and drink on the premises, as well as participate in our multiple sports teams, members will get better prices on their drinks, as well as potential discounts on upcoming events. You can become a new member for the price of £20, with renewals happening yearly (often around January time) costing £10 to renew for the following year. If you become a member, you will be able to participate in our highly anticipated members day, a yearly day where every drink is increasingly discounted with multiple separate tournaments taking place with cash prizes available for each winner.</p>
+    
+        </div>
+    </div>
+</body>
+</html>
