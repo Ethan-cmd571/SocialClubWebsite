@@ -32,13 +32,14 @@
     <main>
       <div class="enquiry">
         <h1>Booking/General enquiry form</h1>
-          <form class="contact-form" action="contactform.php" method="post">
-            <input type="text" name="name" placeholder="Full name">
-            <input type="text" name="phonenumber" placeholder="Phonenumber">
-            <input type="text" name="mail" placeholder="Email address">
-            <input type="text" name="subject" placeholder="Subject">
-            <textarea name="description" placeholder="Description"></textarea>
-            <button type="submit" name="submit">SUBMIT</button>
+          <form class="form login-form" action="contactform.php" method="post">
+            <svg class="form-icon-left" width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg>
+              <input class="form-label" for="name" type="text" name="name" placeholder="Full name">
+              <input class="form-label" for="phonenumber" type="text" name="phonenumber" placeholder="Phonenumber">
+              <input class="form-label" for="mail" type="text" name="mail" placeholder="Email address">
+              <input class="form-label" for="suject" type="text" name="subject" placeholder="Subject">
+              <textarea name="description" placeholder="Description"></textarea>
+              <button class="btn blue" for="submit" type="submit" name="submit">SUBMIT</button>
           </form>
       </div>
     </main>
