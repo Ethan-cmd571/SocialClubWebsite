@@ -17,7 +17,7 @@
   <a href="Events.php">Events</a>
   <a href="Membership.php">Membership</a>
   <a href="Bookings.php">Bookings</a>
-  <a href="Login.php">Membership login</a>
+  <!---<a href="Login.php">Membership login</a>!-->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="text3">
-      <a href="Login.php">Already a member? Login here</a>
+      <!--<a href="Login.php">Already a member? Login here</a>!-->
     </div>
 
 </body>

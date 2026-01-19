@@ -1,4 +1,5 @@
 <?php
+
 // Start the session
 session_start();
 // Change the below variables to reflect your MySQL database details
